@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshayhamilton.....### Welcome to my Profile!
 - 👀 I’m interested in ... Data Science & Finance
-- 🌱 I’m currently learning ... R
-- 💞️ I’m looking to collaborate on ... R
+- 🌱 I’m currently learning ... R & Python
+- 💞️ I’m looking to collaborate on ... R & Python 
 - 📫 How to reach me ... akshayhamilton8@gmail.com
 
 <!---
