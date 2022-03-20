@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akshayhamilton.....### Welcome to my Profile !!!
+- 👋 Hi, I’m @akshayhamilton.....### Welcome to my Profile!
 - 👀 I’m interested in ... Data Science
 - 🌱 I’m currently learning ... R
 - 💞️ I’m looking to collaborate on ... R
